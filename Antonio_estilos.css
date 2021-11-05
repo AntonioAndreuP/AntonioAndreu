@@ -3,13 +3,19 @@
 		body {
 		background-color:black
 		}
-       h1 {
+       		h1 {
 		 background-color:white;
 		 color:red;
-            }
-			li {
-			background-color:white;
-			}
+           	 }
+		li {
+		background-color:white;
+		}
 		h2 {
+		color:white;
+		}
+		h3 {
+		color:white;
+		}
+		h4 {
 		color:white;
 		}
